@@ -1,2 +1,3 @@
-# northstar-github-poc-public
-Synthetic repository for Northstar GitHub branch-protection testing
+# Northstar GitHub Branch Protection POC
+
+This repository contains synthetic test data only and exists solely for Northstar GitHub integration and branch-protection testing.
